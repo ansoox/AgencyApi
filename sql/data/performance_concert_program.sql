@@ -1,0 +1,32 @@
+COPY agency.performance_concert_program (performance_id, concert_program_id) FROM stdin;
+1	61
+2	61
+3	63
+4	63
+5	61
+6	61
+7	61
+8	61
+9	66
+10	66
+11	68
+12	68
+13	64
+14	65
+15	73
+1	73
+2	73
+3	74
+4	76
+5	76
+6	72
+7	82
+8	82
+9	82
+10	82
+11	82
+12	83
+13	82
+14	84
+15	88
+\.
